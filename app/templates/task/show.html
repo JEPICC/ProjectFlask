@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% from 'helpers/_forms.html' import render_field %}
+
+{% block container %}
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title">{{task.title}}</h5>
+            <p class="card-text">{{task.description}}</p>
+        </div>
+    </div>
+{% endblock %}
