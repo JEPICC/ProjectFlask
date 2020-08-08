@@ -1,0 +1,17 @@
+test.http
+.vscode/settings.json
+__pycache__/config.cpython-37.pyc
+app/__pycache__/__init__.cpython-37.pyc
+app/__pycache__/api.cpython-37.pyc
+app/__pycache__/consts.cpython-37.pyc
+app/__pycache__/email.cpython-37.pyc
+app/__pycache__/forms.cpython-37.pyc
+app/__pycache__/models.cpython-37.pyc
+app/__pycache__/views.cpython-37.pyc
+migrations/alembic.ini
+migrations/README
+migrations/script.py.mako
+migrations/__pycache__/env.cpython-37.pyc
+migrations/versions/7089f1367f21_.py
+migrations/versions/__pycache__/7089f1367f21_.cpython-37.pyc
+tests/__pycache__/test.cpython-37.pyc
